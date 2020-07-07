@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "floobby_head",
+    "enableBody": true,
+    "textureBody": "floobby_body",
+    "enableLeggings": true,
+    "textureLeggings": "floobby_leggings",
+    "enableBoots": true,
+    "textureBoots": "floobby_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "floobby",
+    "helmetName": "Floobby Helmet",
+    "bodyName": "Floobby Chestplate",
+    "leggingsName": "Floobby Leggings",
+    "bootsName": "Floobby Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 150,
+    "damageValueHelmet": 20,
+    "damageValueBody": 50,
+    "damageValueLeggings": 60,
+    "damageValueBoots": 20,
+    "enchantability": 90,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}
