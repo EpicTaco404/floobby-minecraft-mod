@@ -1,0 +1,26 @@
+{
+  "group": "floobby",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "floobby:floobbygem"
+    },
+    "2": {
+      "item": "floobby:floobbygem"
+    },
+    "3": {
+      "item": "floobby:floobbygem"
+    },
+    "5": {
+      "item": "floobby:floobbygem"
+    }
+  },
+  "result": {
+    "item": "floobby:floobbyarmorboots",
+    "count": 1
+  }
+}

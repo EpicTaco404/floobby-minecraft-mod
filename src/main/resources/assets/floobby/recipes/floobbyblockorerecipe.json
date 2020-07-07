@@ -1,0 +1,13 @@
+{
+  "group": "floobby",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "floobby:floobbyoreblock"
+    }
+  ],
+  "result": {
+    "item": "floobby:floobbygem",
+    "count": 9
+  }
+}

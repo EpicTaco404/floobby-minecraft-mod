@@ -1,0 +1,42 @@
+{
+  "group": "floobby",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "floobby:floobbygem"
+    },
+    "1": {
+      "item": "floobby:floobbygem"
+    },
+    "2": {
+      "item": "floobby:floobbygem"
+    },
+    "3": {
+      "item": "floobby:floobbygem"
+    },
+    "4": {
+      "item": "floobby:floobbygem"
+    },
+    "5": {
+      "item": "floobby:floobbygem"
+    },
+    "6": {
+      "item": "floobby:floobbygem"
+    },
+    "7": {
+      "item": "floobby:floobbygem"
+    },
+    "8": {
+      "item": "floobby:floobbygem"
+    }
+  },
+  "result": {
+    "item": "floobby:floobbyoreblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "floobby:blocks/floobby_ore",
+    "particle": "floobby:blocks/floobby_ore"
+  }
+}
